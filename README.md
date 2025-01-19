@@ -1,8 +1,8 @@
-**Advanced Software Engineering Virtual Experience (Walmart/TheForage)**
+## Advanced Software Engineering Virtual Experience (Walmart/TheForage)**
 
 This repository showcases my solutions for the Walmart Advanced Software Engineering Virtual Experience Program, offered through TheForage platform.  The program provided hands-on experience across various software engineering disciplines.
 
-**Project Overview**
+## Project Overview
 
 This program challenged participants to solve real-world problems encompassing several key areas of advanced software engineering. My solutions are organized by task:
 
